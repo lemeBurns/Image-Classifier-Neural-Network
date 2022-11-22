@@ -1,4 +1,4 @@
 # Simple-Image-Classifier-Neural-Network
 
-mnist dataset
+mnist dataset \n
 using pytorch
