@@ -1,4 +1,4 @@
 # Simple-Image-Classifier-Neural-Network
 
 mnist dataset \
-using pytorch
+to recognize handwritten numbers from an image
