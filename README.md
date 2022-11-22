@@ -1,4 +1,4 @@
 # Simple-Image-Classifier-Neural-Network
 
-mnist dataset \
+data used: mnist dataset\
 to recognize handwritten numbers from an image
