@@ -21,7 +21,7 @@ This repository contains code for an image classifier built using PyTorch. The c
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/lemejobless/your-repository.git
+    git clone https://github.com/lemeBurns/your-repository.git
     ```
 
 2. Install the required dependencies:
