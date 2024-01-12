@@ -1,5 +1,5 @@
 
-# Image-Classifier-Neural-Network
+# Image-Classifier-Neural-Network-with-CNN
 
 The Image-Classifier-Neural-Network is designed to recognize handwritten numbers from an image using the MNIST dataset.
 
